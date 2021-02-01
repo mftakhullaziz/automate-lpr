@@ -1,0 +1,9 @@
+/home/mift/TA_Env/thesis-projects/darknet/darknet/build_release/CMakeFiles/install.dir
+/home/mift/TA_Env/thesis-projects/darknet/darknet/build_release/CMakeFiles/list_install_components.dir
+/home/mift/TA_Env/thesis-projects/darknet/darknet/build_release/CMakeFiles/rebuild_cache.dir
+/home/mift/TA_Env/thesis-projects/darknet/darknet/build_release/CMakeFiles/edit_cache.dir
+/home/mift/TA_Env/thesis-projects/darknet/darknet/build_release/CMakeFiles/install/local.dir
+/home/mift/TA_Env/thesis-projects/darknet/darknet/build_release/CMakeFiles/darknet.dir
+/home/mift/TA_Env/thesis-projects/darknet/darknet/build_release/CMakeFiles/install/strip.dir
+/home/mift/TA_Env/thesis-projects/darknet/darknet/build_release/CMakeFiles/uselib.dir
+/home/mift/TA_Env/thesis-projects/darknet/darknet/build_release/CMakeFiles/dark.dir

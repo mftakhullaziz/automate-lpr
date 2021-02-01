@@ -1,0 +1,9 @@
+/home/mift/TA_Env/thesis-projects/darknet/darknet/libdarknet.so
+/home/mift/TA_Env/thesis-projects/darknet/darknet/include/darknet/darknet.h
+/home/mift/TA_Env/thesis-projects/darknet/darknet/include/darknet/yolo_v2_class.hpp
+/home/mift/TA_Env/thesis-projects/darknet/darknet/uselib
+/home/mift/TA_Env/thesis-projects/darknet/darknet/darknet
+/home/mift/TA_Env/thesis-projects/darknet/darknet/share/darknet/DarknetTargets.cmake
+/home/mift/TA_Env/thesis-projects/darknet/darknet/share/darknet/DarknetTargets-release.cmake
+/home/mift/TA_Env/thesis-projects/darknet/darknet/share/darknet/DarknetConfig.cmake
+/home/mift/TA_Env/thesis-projects/darknet/darknet/share/darknet/DarknetConfigVersion.cmake

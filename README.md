@@ -18,3 +18,5 @@ link models training :
 
 untuk source code testing YOLO V3 link : 
 https://drive.google.com/drive/folders/1fHaLCs-J314tP4-orkfpkRsZcAmn-IrZ?usp=sharing
+
+untuk configuration dari SSD ResNet-50 dapat didownload di link : https://drive.google.com/drive/folders/134Rpoh6vCy2UmHTwt9GuGfftpyGUaov-?usp=sharing

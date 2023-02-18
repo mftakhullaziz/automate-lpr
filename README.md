@@ -1,5 +1,5 @@
-# identification-of-police-number-characters-on-vehicle-plates-using-convolutional-neural-networks
-Repository Tugas Akhir
+## Alpatera is Automate License Plate Recognition Based on Itera
+## Thesis Title : Identification Of Police Number Characters On Vehicle Plates Using Convolutional Neural Networks
 
 #### repository ini merupakan repo dari tugas akhir saya tentang indentifikasi karakter pada plat kendaraan menggunakan convolutional neural networks
 pada tugas akhir ini terdapat 3 tahap :

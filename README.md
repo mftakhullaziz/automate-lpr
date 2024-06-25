@@ -80,8 +80,7 @@ The final thesis document, which provides a detailed explanation of the methodol
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/mftakhullaziz/automate-lpr.git
-   cd AutoLPR
-
+   cd automate-lpr
 
 <!--
 ## AutoLPR is Automate License Plate Recognition Based on Itera
